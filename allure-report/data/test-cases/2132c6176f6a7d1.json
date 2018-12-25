@@ -1,0 +1,49 @@
+{
+  "uid" : "2132c6176f6a7d1",
+  "name" : "demo2",
+  "fullName" : "AllureTest.demo2",
+  "historyId" : "32cd1309d0fc396c3630c268a5ed12e6",
+  "time" : {
+    "start" : 1545735534374,
+    "stop" : 1545735534374,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "AllureTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "demo2"
+  }, {
+    "name" : "suite",
+    "value" : "AllureTest"
+  }, {
+    "name" : "host",
+    "value" : "WINDOWS-NIE4IOA"
+  }, {
+    "name" : "thread",
+    "value" : "12356@WINDOWS-NIE4IOA.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2132c6176f6a7d1.json",
+  "parameterValues" : [ ]
+}

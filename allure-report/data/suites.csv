@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"failed","AllureTest.demo1","122","Allure test"
+"failed","AllureTest.demo3","2",""
+"passed","AllureTest.demo2","0",""

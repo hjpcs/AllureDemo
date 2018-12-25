@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WINDOWS-NIE4IOA",
+    "children" : [ {
+      "name" : "12356@WINDOWS-NIE4IOA.main(1)",
+      "children" : [ {
+        "name" : "demo1 displayname",
+        "uid" : "543f6c6a63d50998",
+        "parentUid" : "93d13673deb3464b2e010bc303e0cb8d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545735534073,
+          "stop" : 1545735534195,
+          "duration" : 122
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "demo3",
+        "uid" : "88f9ee0352783cd8",
+        "parentUid" : "93d13673deb3464b2e010bc303e0cb8d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545735534381,
+          "stop" : 1545735534383,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "demo2",
+        "uid" : "2132c6176f6a7d1",
+        "parentUid" : "93d13673deb3464b2e010bc303e0cb8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545735534374,
+          "stop" : 1545735534374,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93d13673deb3464b2e010bc303e0cb8d"
+    } ],
+    "uid" : "21d55fccb5d5987c1769f94549e5a984"
+  } ]
+}
